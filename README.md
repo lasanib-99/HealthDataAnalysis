@@ -31,7 +31,8 @@ The exploratory data analysis (EDA) and statistical tests were performed in R us
 
 - ## How to Use
 
-1. Clone this repository to your local machine using Git: https://github.com/your-username/HealthDataAnalysis.git 
-2. Install the required R libraries mentioned in `requirements.txt`.
+1. Clone this repository to your local machine using Git:
+git clone https://github.com/lasanib-99/HealthDataAnalysis.git
+2. Install the required R packages mentioned in `requirements.txt`.
 3. Explore the analysis scripts in the `Scripts/` folder to understand the data processing and visualization steps.
 4. Open and review the report, `Health_Data_Analysis.pdf`, for a detailed summary of the analysis and findings.
