@@ -1,6 +1,0 @@
-
-R packages used:
-
-1. readxl
-2. dplyr
-3. statsmodels
