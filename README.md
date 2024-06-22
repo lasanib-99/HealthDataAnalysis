@@ -1,6 +1,17 @@
 # HealthDataAnalysis
 This repository contains a case study on 'Analyzing Health Data for a Community Health Program' where we perform exploratory data analysis (EDA) on the dataset 'Health Data'. The goal of this analysis is to assess the effectiveness of a community health program and make informed decisions for future interventions.
 
+Description:
+The public heath team involved in a community health program for improving the well being of residents in a specific neighborhood. They want to assess the effectiveness of the program and make informed decisions for future interventions. The community health program was implemented over a period of 12 months. It included initiatives such as health education workshops, free health screenings, and access to nutritious food options. The goal was to reduce the prevalence of certain health risk factors, such as obesity and hypertension, and improve overall health awareness. 
+The data was collected from pre-program and post-program health assessments conducted within the community. The dataset includes information on participants' demographics, health risk factors, and health outcomes.
+
+## Objectives 
+1. Assess the changes in health risk factors (obesity and hypertension) before and after the 
+program. 
+2. Determine if there are any significant differences between various demographic groups in 
+terms of health outcomes. 
+3. Identify correlations between health risk factors and health outcomes.
+
 ## Data Description
 
 The data provided for analysis includes the following variables:
