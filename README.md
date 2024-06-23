@@ -1,4 +1,5 @@
-# HealthDataAnalysis
+# Health_Data_Analysis
+
 This repository contains a case study on 'Analyzing Health Data for a Community Health Program' where we perform exploratory data analysis (EDA) on the dataset 'Health Data'. The goal of this analysis is to assess the effectiveness of a community health program and make informed decisions for future interventions.
 
 Description:
